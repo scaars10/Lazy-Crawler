@@ -19,7 +19,8 @@ def fetch_url(url):
 		return int(1)
 
 
-def extract_text(link, link_data):
+def extract_text(link):
+	link_data = fetch_url(link)
 	html = link_data.read()
 	soup = BeautifulSoup(html)
 
@@ -34,8 +35,8 @@ def extract_text(link, link_data):
 	text = '\n'.join(chunk for chunk in chunks if chunk)
 	link1 = link
 	link1 = re.sub('[^0-9a-zA-Z]+', '', link1)
-	small_methods.directory_manage('output\\text')
-	f = open('output\\text\link-' + str(link1) + '.txt', 'w')
+	small_methods.directory_manage('output\\Websites_Text')
+	f = open('output\\Websites_Text\link-' + str(link1) + '.txt', 'w')
 	#  f = open('output\level' + str(depth) + '.txt', 'w')
 	try:
 		f.write(str(text))
@@ -56,8 +57,6 @@ def link_filter(link, temp_queue, all_links, base_url, base_link, url):
 		else:
 			link1 = url + link1
 
-
-	#  print(link)
 	if link1 in all_links:
 		return 0
 	if 'www.'+base_url not in link1 and 'http://'+base_url not in link1 and 'https://'+base_url not in link1:
@@ -73,6 +72,7 @@ def get_links(url, temp_queue, set_of_all_links, base_url):
 	if link_data is int:
 		return
 	try:
+
 		soup = BeautifulSoup(link_data, 'html.parser')
 	except:
 		return
@@ -85,6 +85,5 @@ def get_links(url, temp_queue, set_of_all_links, base_url):
 
 	for link in links_in_page:
 		link_filter(link, temp_queue, set_of_all_links, base_url, base_on_page, url)
-
-	extract_text(url, link_data)
-	print(temp_queue)
+	extract_text(url)
+	# print(temp_queue)
