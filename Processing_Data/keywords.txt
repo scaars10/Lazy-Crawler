@@ -1,0 +1,3 @@
+faculties 100
+functionary 60
+teachers 50

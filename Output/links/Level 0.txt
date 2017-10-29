@@ -1,8 +1,9 @@
+http://pec.ac.in/teqip-third-phase/online-survey-iims-training-faculty
+http://pec.ac.in/institute-functionaries
 http://pec.ac.in#main-content
 http://pec.ac.in/jobs
 http://pec.ac.in/tenders
 http://pec.ac.in/node/549
-http://pec.ac.in/institute-functionaries
 http://pec.ac.in/
 http://pec.ac.in#
 http://pec.ac.in/institute
@@ -46,7 +47,6 @@ http://pec.ac.in/events/pec-university-technology-hosts-scic-workshop
 http://pec.ac.in/events/technology-business-incubator-tbi-workshop-concluded-pec
 http://pec.ac.in/teqip-third-phase/media-coverage
 http://pec.ac.in/programmes/phd/ugc-phd-data
-http://pec.ac.in/teqip-third-phase/online-survey-iims-training-faculty
 http://pec.ac.in/events/music-club-organises-chords
 http://pec.ac.in/events/traffic-awareness-human-chain
 http://pec.ac.in/events/interactive-session-mr-vikas-malhotra-dy-general-manager-jk-cements
