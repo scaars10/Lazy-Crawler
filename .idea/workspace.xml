@@ -2,13 +2,164 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3d0680c-57c6-4e44-8302-5b9c85ca96e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Errors/Link_Error.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinSports.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinacademicscalendar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinacademicunits.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinadministration.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinadmissions.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinallevents.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinalleventsinstitutefunctionaries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinantiragging.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinboardofgovernors.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacincampus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacincampuslife.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacincentres.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacincoecollaborations.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacincomputercentre.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinconsultancy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacincontacts0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacincoursesandconferences.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacincredits.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacincurrentstudents.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacincurrentstudentsexamination.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacincurrentstudentstimetables.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacindepartments.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacindirector.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinevents47thannualconvocationpec.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventsdelegatesalliancefrancaisetrainingsmartcitieschandigarhvisitsmartcityinnovation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventsexpertlecturenanoelectronicdevicefabricationandcharacterisationtools.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventsinteractivesessionmrvikasmalhotradygeneralmanagerjkcements.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventsmousclmohali.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventsmusiccluborganiseschords.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventsnationalworkshoppopularizationremotesensingbasedmapsandgeospatialinformation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventsnationalworkshoppopularizationremotesensingbasedmapsandgeospatialinformationinstitutefunctionaries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventsonedayworkshopE28098medicalapplications3dprintingE28099organisedcoeipdandredigton3d.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventspecuniversitytechnologyhostsscicworkshop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventssmartcityoperationscentreprojectscicinauguratedpec.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventstechnologybusinessincubatortbiworkshopconcludedpec.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventstrafficawarenesshumanchain.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacineventstrainingworkshopfacultymentorsinductionprogrammenewstudents.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinfacilities.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinhistory.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinhostels.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinhouseprojects.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionaries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionaries0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariesmaincontent.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionariestab9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinjobs.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinjobsinstitutefunctionaries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinlibrary.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinlocation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontent.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentacademicunits.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentadministration.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentadmissions.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentallevents.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentboardofgovernors.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentcampus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentcampuslife.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentcentres.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentcoecollaborations.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentconsultancy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentcontacts0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentcoursesandconferences.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentcurrentstudents.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentdepartments.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentdirector.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentevents47thannualconvocationpec.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontenteventsdelegatesalliancefrancaisetrainingsmartcitieschandigarhvisitsmartcityinnovation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontenteventsinteractivesessionmrvikasmalhotradygeneralmanagerjkcements.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontenteventsmusiccluborganiseschords.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontenteventstrafficawarenesshumanchain.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentfacilities.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontenthistory.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontenthouseprojects.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentinstitute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentinstitutefunctionaries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentjobs.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentlocation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentnode549.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentnormsandforms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentpresentations.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentprogrammes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentprogrammespgstructure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentprogrammesphd.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentprogrammesugstructure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentresearchgroups.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentresearchoverview.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentrulesguidelinesforms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentsenatemembers.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentsponsoredresearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontenttenders.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentvideos.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentvision.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmaincontentyrfaboutprogramme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmedicalfacilities.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinmultimedia.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinnirfdata16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinnode549.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinnode549institutefunctionaries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinnormsandforms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinpresentations.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinprivacypolicy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinprogrammes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinprogrammespgstructure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinprogrammesphd.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinprogrammesphdugcphddata.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinprogrammesugstructure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinprospectus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinreportingcopyrightinfringement.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinresearchgroups.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinresearchgroupsrecentinterestsfaculty.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinresearchoverview.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinrulesguidelinesforms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinsenatemembers.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinsponsoredresearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacintenders.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacintendersinstitutefunctionaries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqip.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphase.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphasedileverablesinstitutions.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphasedownloadforms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphaseimprovementteachingfacilities.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphaseimprovestudentlearning.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphaseincreasingfacultyproductivitymotivation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphasekeyactivities.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphasemediacoverage.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphaseonlinesurveyiimstrainingfaculty.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphaseonlinesurveyiimstrainingfaculty0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphaseonlinesurveyiimstrainingfacultymaincontent.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphasestudentemployability.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinteqipthirdphaseteam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacintnpaboutcell.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinvideos.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinvideosinstitutefunctionaries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinvision.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinwebeditor.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinworkshops.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacinyrfaboutprogramme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/links/Level 0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Output/links/Level 1.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Crawler_methods.py" afterPath="$PROJECT_DIR$/Crawler_methods.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lazy_Crawler.py" afterPath="$PROJECT_DIR$/Lazy_Crawler.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Output/Errors/Link_Error.txt" afterPath="$PROJECT_DIR$/Output/Errors/Link_Error.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionaries.txt" afterPath="$PROJECT_DIR$/Output/Websites_Text/link-httppecacininstitutefunctionaries.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Output/links/Level 0.txt" afterPath="$PROJECT_DIR$/Output/links/Level 0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Processing_Data/keywords.txt" afterPath="$PROJECT_DIR$/Processing_Data/keywords.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/small_methods.py" afterPath="$PROJECT_DIR$/small_methods.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,15 +171,15 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Lazy_Crawler$small_methods.coverage" NAME="small_methods Coverage Results" MODIFIED="1509257674653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Lazy_Crawler$Lazy_Crawler.coverage" NAME="Lazy_Crawler Coverage Results" MODIFIED="1509259718530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lazy_Crawler$Lazy_Crawler.coverage" NAME="Lazy_Crawler Coverage Results" MODIFIED="1509271532447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="Lazy_Crawler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lazy_Crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+            <state relative-caret-position="162">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -36,25 +187,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Crawler_methods.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Crawler_methods.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Crawler_methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="77" column="48" lean-forward="false" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+            <state relative-caret-position="486">
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
-                <element signature="e#195#440#0" expanded="false" />
-                <element signature="e#498#1186#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="small_methods.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="small_methods.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/small_methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="89" selection-end-column="26" />
+            <state relative-caret-position="540">
+              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -70,9 +219,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Crawler_methods.py" />
-        <option value="$PROJECT_DIR$/small_methods.py" />
         <option value="$PROJECT_DIR$/Lazy_Crawler.py" />
+        <option value="$PROJECT_DIR$/small_methods.py" />
+        <option value="$PROJECT_DIR$/Crawler_methods.py" />
       </list>
     </option>
   </component>
@@ -82,7 +231,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="83" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
@@ -108,7 +257,7 @@
     </entry>
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -121,21 +270,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Lazy_Crawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lazy_Crawler" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -214,7 +349,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -267,8 +402,6 @@
           <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#195#440#0" expanded="false" />
-            <element signature="e#498#1186#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -309,40 +442,36 @@
           <caret line="52" column="30" lean-forward="false" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#195#440#0" expanded="false" />
-            <element signature="e#498#1186#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lazy_Crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        <state relative-caret-position="162">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crawler_methods.py">
+    <entry file="file://$PROJECT_DIR$/small_methods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="77" column="48" lean-forward="false" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+        <state relative-caret-position="540">
+          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#195#440#0" expanded="false" />
-            <element signature="e#498#1186#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/small_methods.py">
+    <entry file="file://$PROJECT_DIR$/Crawler_methods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="89" selection-end-column="26" />
+        <state relative-caret-position="486">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>

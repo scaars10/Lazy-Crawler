@@ -1,3 +1,6 @@
-faculties 100
+faculty 100
 functionary 60
-teachers 50
+professors 20
+teachers 60
+staff 30
+grr grt
