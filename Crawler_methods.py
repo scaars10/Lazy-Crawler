@@ -91,4 +91,7 @@ def get_links(url, temp_queue, set_of_all_links, base_url, temp_queue_text):  # 
 		link = a_tag.get('href')
 		link_text = a_tag.string
 		link_filter(link, temp_queue, set_of_all_links, base_on_page_url, temp_queue_text, link_text, base_url)
+	# try:
 	extract_text(url)
+	"""except:
+		print("No text extracted from"+ url)"""
