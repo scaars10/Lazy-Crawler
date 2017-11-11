@@ -1,8 +1,5 @@
-Before running the crawler(Lazy_Crawler.py), run these commands in the git terminal or the terminal of your preference:
-	pip install requests
-	pip install bs4
-	pip install six
-	pip install stemming
+Before running the crawler(Lazy_Crawler.py), install the dependencies for running the crawler by 
+running dependencies.sh present inside scripts
 
 Keywords used for sorting links with respect to their importance are present in \Processing_Data\keywords.txt
 First word of each line is the keyword and the second word is an integer which shows its importance.
